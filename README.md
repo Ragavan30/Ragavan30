@@ -317,7 +317,7 @@
 ## Certifications
 
 <p align="center">
-  <img src="https://img.icons8.com/color/60/000000/network-security.png" alt="Network Security Icon">
+  <img src="[https://img.icons8.com/color/60/000000/network-security.png](https://www.bing.com/images/search?view=detailV2&ccid=wEV8UD%2fa&id=F13C0753F597B2E672696AFBB17204DE7BA071F7&thid=OIP.wEV8UD_aZrTos5Gn1vtcjQHaFj&mediaurl=https%3a%2f%2fwww.ieindia.org%2fWebUI%2fimg%2fCertificate%2fcertificate-animation.gif&exph=600&expw=800&q=gif+for+certificates&simid=608046595777959333&FORM=IRPRST&ck=8572279B7317BE015A82BF38293468A6&selectedIndex=1&itb=0)" alt="Network Security Icon">
   <br>
   <strong>Network Security</strong>
   <br>Great Learning Academy
@@ -325,7 +325,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/60/000000/data-science.png" alt="Data Science Icon">
+  <img src="[[https://img.icons8.com/color/60/000000/data-science.png](https://www.bing.com/images/search?view=detailV2&ccid=5NNOCKVk&id=FC333F6634A8BB134CB770825D1BFFE8B7233FA9&thid=OIP.5NNOCKVk6P4eA87CbzmfawHaHa&mediaurl=https%3a%2f%2fcdn-icons-gif.flaticon.com%2f12035%2f12035152.gif&exph=640&expw=640&q=Certificate+Icon+GIF&simid=608034965000449850&FORM=IRPRST&ck=4AC902A34436F4BF8D0F2040BF4B27F4&selectedIndex=5&itb=0)](https://www.bing.com/images/search?view=detailV2&ccid=wEV8UD%2fa&id=F13C0753F597B2E672696AFBB17204DE7BA071F7&thid=OIP.wEV8UD_aZrTos5Gn1vtcjQHaFj&mediaurl=https%3a%2f%2fwww.ieindia.org%2fWebUI%2fimg%2fCertificate%2fcertificate-animation.gif&exph=600&expw=800&q=gif+for+certificates&simid=608046595777959333&FORM=IRPRST&ck=8572279B7317BE015A82BF38293468A6&selectedIndex=0&itb=0)" alt="Data Science Icon">
   <br>
   <strong>Data Science Foundations</strong>
   <br>Great Learning Academy
@@ -333,7 +333,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/60/000000/testing.png" alt="Software Testing Icon">
+  <img src="[[https://img.icons8.com/color/60/000000/testing.png](https://www.bing.com/images/search?view=detailV2&ccid=5NNOCKVk&id=FC333F6634A8BB134CB770825D1BFFE8B7233FA9&thid=OIP.5NNOCKVk6P4eA87CbzmfawHaHa&mediaurl=https%3a%2f%2fcdn-icons-gif.flaticon.com%2f12035%2f12035152.gif&exph=640&expw=640&q=Certificate+Icon+GIF&simid=608034965000449850&FORM=IRPRST&ck=4AC902A34436F4BF8D0F2040BF4B27F4&selectedIndex=5&itb=0)](https://www.bing.com/images/search?view=detailV2&ccid=wEV8UD%2fa&id=F13C0753F597B2E672696AFBB17204DE7BA071F7&thid=OIP.wEV8UD_aZrTos5Gn1vtcjQHaFj&mediaurl=https%3a%2f%2fwww.ieindia.org%2fWebUI%2fimg%2fCertificate%2fcertificate-animation.gif&exph=600&expw=800&q=gif+for+certificates&simid=608046595777959333&FORM=IRPRST&ck=8572279B7317BE015A82BF38293468A6&selectedIndex=0&itb=0)" alt="Software Testing Icon">
   <br>
   <strong>Software Testing and Automation</strong>
   <br>Ingage
