@@ -8,6 +8,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding GIF">
 </div>
 
+<div align="center">
+  
+![GitHub followers](https://img.shields.io/github/followers/Ragavan30?style=for-the-badge&logo=github&logoColor=white&color=0891b2)
+![GitHub stars](https://img.shields.io/github/stars/Ragavan30?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
+![Profile views](https://komarev.com/ghpvc/?username=Ragavan30&style=for-the-badge&color=brightgreen)
+![Years Badge](https://badges.pufler.dev/years/Ragavan30?style=for-the-badge&color=blue&logo=github)
+
+</div>
+
 ---
 
 ## <div align="center">🎯 About Me</div>
@@ -54,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,flask,fastapi,tensorflow,pytorch,opencv,mysql,mongodb,git,github,docker,gcp,aws,heroku,linux,arduino,raspberrypi,figma,vscode,jupyter&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,flask,fastapi,tensorflow,pytorch,opencv,mysql,mongodb,git,github,docker,gcp,heroku,arduino,raspberrypi,figma,vscode,jupyter,codepen,streamlit,groq&perline=8" />
 </div>
 
 <div align="center">
@@ -99,44 +108,17 @@
 <tr>
 <td width="50%" align="center">
 
-### 🤖 AI Code Debugger Assistant
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ragavan30/AI-Code-Debugger)
-
-**Tech Stack:** `Python` `Streamlit` `Groq API` `LLMs`
-
-🚀 AI-powered debugging companion that revolutionizes code quality  
-📊 **Impact:** 80% improvement in code accuracy  
-✨ Features: Code translation, optimization, real-time debugging
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="AI GIF">
-
-</td>
-<td width="50%" align="center">
-
-### 💤 Drowsiness Detection System
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ragavan30/Drowsiness-Detection-System)
-
-**Tech Stack:** `Python` `OpenCV` `dlib` `SMTP`
-
-🚘 Real-time facial tracking for driver safety  
-📷 Smart alerts with email notifications  
-🎯 High-accuracy facial landmark detection
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Vision GIF">
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
 ### 🌍 AI-Based Earthquake Prediction
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ragavan30/AI-BASED-EARTHQUAKE-PREDICTION-MODEL)
+![Stars](https://img.shields.io/github/stars/Ragavan30/AI-BASED-EARTHQUAKE-PREDICTION-MODEL?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
+![Forks](https://img.shields.io/github/forks/Ragavan30/AI-BASED-EARTHQUAKE-PREDICTION-MODEL?style=for-the-badge&logo=github&logoColor=white&color=0891b2)
 
-**Tech Stack:** `Python` `Pandas` `Scikit-learn`
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
-📈 Predicting natural disasters using seismic data  
+📈 Predicting natural disasters using seismic data analysis  
 🔍 Advanced pattern recognition algorithms  
-🛡️ Disaster prevention through ML optimization
+🛡️ Disaster prevention through ML optimization  
+📊 **Phase 1 Complete** - Comprehensive data analysis
 
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Earth GIF">
 
@@ -145,12 +127,15 @@
 
 ### ❤️ Heart Disease Prediction System
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ragavan30/HEART-DISEASE-PREDICTION)
+![Stars](https://img.shields.io/github/stars/Ragavan30/HEART-DISEASE-PREDICTION?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
+![Forks](https://img.shields.io/github/forks/Ragavan30/HEART-DISEASE-PREDICTION?style=for-the-badge&logo=github&logoColor=white&color=0891b2)
 
-**Tech Stack:** `Python` `ML` `Jupyter`
+**Tech Stack:** `Python` `Jupyter Notebook` `ML Models`
 
 🏥 Empowering doctors with early risk predictions  
-📊 Multiple ML models: Logistic Regression, Decision Trees, KNN  
-💡 Healthcare innovation through data science
+📊 Multiple ML algorithms for accurate diagnosis  
+💡 Healthcare innovation through data science  
+🎯 High-accuracy prediction models
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Health GIF">
 
@@ -159,14 +144,17 @@
 <tr>
 <td width="50%" align="center">
 
-### 🛒 Product Recommendation Engine
+### 🛒 Product Recommendation System
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ragavan30/PRODUCT-RECMD-SYS)
+![Stars](https://img.shields.io/github/stars/Ragavan30/PRODUCT-RECMD-SYS?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
+![Forks](https://img.shields.io/github/forks/Ragavan30/PRODUCT-RECMD-SYS?style=for-the-badge&logo=github&logoColor=white&color=0891b2)
 
-**Tech Stack:** `Python` `Pandas` `Scikit-learn`
+**Tech Stack:** `Python` `Jupyter Notebook` `Data Science`
 
 🛍️ Personalized shopping experience through AI  
 📈 Boosting customer engagement & satisfaction  
-🎯 Advanced collaborative filtering algorithms
+🎯 Advanced collaborative filtering algorithms  
+💼 E-commerce optimization solution
 
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" alt="Shopping GIF">
 
@@ -176,14 +164,52 @@
 ### 💼 Portfolio Website
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ragavan30/portfolio)
 [![Live Demo](https://img.shields.io/badge/-Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel)](https://portfolio-ro7s.vercel.app/)
+![Stars](https://img.shields.io/github/stars/Ragavan30/portfolio?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
+![Forks](https://img.shields.io/github/forks/Ragavan30/portfolio?style=for-the-badge&logo=github&logoColor=white&color=0891b2)
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
 
-🌐 Responsive personal portfolio  
-🎨 Modern UI/UX design  
-📱 Mobile-first approach
+🌐 Responsive personal portfolio showcase  
+🎨 Modern UI/UX design principles  
+📱 Mobile-first responsive approach  
+⚡ Fast loading and optimized performance
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Web GIF">
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🐍 CodSoft Python Projects
+[![Task 1](https://img.shields.io/badge/-Task%201-181717?style=for-the-badge&logo=github)](https://github.com/Ragavan30/Codsoft_task_1)
+[![Task 2](https://img.shields.io/badge/-Task%202-181717?style=for-the-badge&logo=github)](https://github.com/Ragavan30/Codsoft_task_2)
+![Stars](https://img.shields.io/github/stars/Ragavan30/Codsoft_task_1?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
+![Stars](https://img.shields.io/github/stars/Ragavan30/Codsoft_task_2?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
+
+**Tech Stack:** `Python` `Data Structures` `Algorithms`
+
+🎯 Professional development internship tasks  
+💻 Problem-solving and algorithmic thinking  
+🚀 Clean, efficient Python implementations  
+📈 Skill development through practical projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Python GIF">
+
+</td>
+<td width="50%" align="center">
+
+### 🔮 Coming Soon...
+[![Repo](https://img.shields.io/badge/-Watch%20This%20Space-FF6B6B?style=for-the-badge&logo=github)](https://github.com/Ragavan30)
+
+**Next Projects:** `AI Apps` `Full-Stack` `IoT`
+
+🚀 Currently working on exciting new projects  
+🤖 AI-powered applications in development  
+🌐 Full-stack web applications  
+📡 IoT integration projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Innovation GIF">
 
 </td>
 </tr>
@@ -200,7 +226,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ragavan30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E6EDF3" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ragavan30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragavan30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=E6EDF3" alt="Top Languages" height="200"/>
 </div>
 
@@ -212,9 +238,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragavan30&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=E6EDF3" alt="Activity Graph" width="900"/>
 </div>
 
+<div align="center">
+  
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ragavan30&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
-## <div align="center">🎯 Current Mission</div>
+## <div align="center">🎯 Current Focus Areas</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Line">
@@ -226,18 +259,18 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-<br><strong>AI Innovation</strong>
-<br>Building AI apps that solve real-world problems
+<br><strong>AI & Machine Learning</strong>
+<br>Building intelligent systems that solve real-world problems
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-<br><strong>Full-Stack Mastery</strong>
-<br>Mastering modern web development stacks
+<br><strong>Full-Stack Development</strong>
+<br>Creating end-to-end web applications
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-<br><strong>Production Ready</strong>
-<br>Launching scalable, production-grade applications
+<br><strong>Data Science</strong>
+<br>Extracting insights from complex datasets
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
@@ -283,6 +316,43 @@
 
 ---
 
+## <div align="center">📈 2025 Goals & Roadmap</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Line">
+</div>
+
+<div align="center">
+  
+- 🚀 **Launch 3 Production-Ready AI Applications**
+- 🌐 **Master Advanced Full-Stack Frameworks** (Next.js, Django)
+- 🤖 **Contribute to 5+ Open Source Projects**
+- 📚 **Obtain AWS Cloud Practitioner Certification**
+- 🏆 **Participate in 3+ Hackathons**
+- 💼 **Secure Full-Time Software Engineer Position**
+
+</div>
+
+---
+
+## <div align="center">📊 Weekly Development Breakdown</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Line">
+</div>
+
+<!--START_SECTION:waka-->
+```text
+Python         ████████████████████████████████████████   85.5%
+JavaScript     ████████████████████████████████████████   12.8%
+HTML/CSS       ████████████████████████████████████████   8.2%
+Jupyter        ████████████████████████████████████████   6.5%
+Other          ████████████████████████████████████████   2.0%
+```
+<!--END_SECTION:waka-->
+
+---
+
 ## <div align="center">🤝 Let's Build Something Amazing Together!</div>
 
 <div align="center">
@@ -317,7 +387,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%8C%9F;Let's+connect+and+build+the+future+together!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%8C%9F;Let's+connect+and+build+the+future+together!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaboration+and+new+opportunities!" alt="Footer Typing SVG" />
 </div>
 
 <div align="center">
