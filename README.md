@@ -297,7 +297,7 @@
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
 <br><strong>🥇 1st Place Winner</strong>
-<br>IoT & Cybersecurity Workshop Hackathon
+<br>IoT & Cybersecurity Workshop
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
@@ -312,6 +312,33 @@
 </tr>
 </table>
 
+---
+
+## Certifications
+
+<p align="center">
+  <img src="https://img.icons8.com/color/60/000000/network-security.png" alt="Network Security Icon">
+  <br>
+  <strong>Network Security</strong>
+  <br>Great Learning Academy
+  <br>Successfully completed a free online course on Network Security (May 2024).
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/60/000000/data-science.png" alt="Data Science Icon">
+  <br>
+  <strong>Data Science Foundations</strong>
+  <br>Great Learning Academy
+  <br>Successfully completed a free online course on Data Science Foundations (May 2024).
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/60/000000/testing.png" alt="Software Testing Icon">
+  <br>
+  <strong>Software Testing and Automation</strong>
+  <br>Ingage
+  <br>Successfully completed a certification in Software Testing and Automation.
+</p>
 </div>
 
 ---
