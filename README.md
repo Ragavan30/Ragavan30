@@ -317,7 +317,7 @@
 ## Certifications
 
 <p align="center">
-  <img src="[https://img.icons8.com/color/60/000000/network-security.png](https://www.bing.com/images/search?view=detailV2&ccid=wEV8UD%2fa&id=F13C0753F597B2E672696AFBB17204DE7BA071F7&thid=OIP.wEV8UD_aZrTos5Gn1vtcjQHaFj&mediaurl=https%3a%2f%2fwww.ieindia.org%2fWebUI%2fimg%2fCertificate%2fcertificate-animation.gif&exph=600&expw=800&q=gif+for+certificates&simid=608046595777959333&FORM=IRPRST&ck=8572279B7317BE015A82BF38293468A6&selectedIndex=1&itb=0)" alt="Network Security Icon">
+  <img src="[[https://img.icons8.com/color/60/000000/network-security.png](https://www.bing.com/images/search?view=detailV2&ccid=wEV8UD%2fa&id=F13C0753F597B2E672696AFBB17204DE7BA071F7&thid=OIP.wEV8UD_aZrTos5Gn1vtcjQHaFj&mediaurl=https%3a%2f%2fwww.ieindia.org%2fWebUI%2fimg%2fCertificate%2fcertificate-animation.gif&exph=600&expw=800&q=gif+for+certificates&simid=608046595777959333&FORM=IRPRST&ck=8572279B7317BE015A82BF38293468A6&selectedIndex=1&itb=0)](https://www.bing.com/images/search?view=detailV2&ccid=ji%2BZ2Idd&id=E40C7FE7B92C1DCFEF917D1194FF0E47C18DB525&thid=OIP.ji-Z2Idde_JP0gGJaHLR_AHaHa&mediaurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F7186%2F7186608.png&exph=512&expw=512&q=md+badge+for+cerficates+gif&simid=608047785514843265&form=IRPRST&ck=D4836B1572BA59B93C75A9C7DAE99B01&selectedindex=1&itb=0&cw=2151&ch=1040&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_4UP1MQSY*cp_2BBFC1DE712DF78BFC7C3F68EC96BB96*mid_C1B077E8A1C661BE865D2EC8B88EEEF6FA4A2A0E*simid_608016677043981451*thid_OIP.4UP1MQSY67yU2wmP3!_xeOwHaFj&vt=0&sim=11&iss=VSI)" alt="Network Security Icon">
   <br>
   <strong>Network Security</strong>
   <br>Great Learning Academy
