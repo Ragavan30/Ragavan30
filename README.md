@@ -13,7 +13,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Ragavan30?style=for-the-badge&logo=github&logoColor=white&color=0891b2)
 ![GitHub stars](https://img.shields.io/github/stars/Ragavan30?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
 ![Profile views](https://komarev.com/ghpvc/?username=Ragavan30&style=for-the-badge&color=brightgreen)
-![Years Badge](https://badges.pufler.dev/years/Ragavan30?style=for-the-badge&color=blue&logo=github)
+![GitHub User's stars](https://img.shields.io/github/created-at/Ragavan30?style=for-the-badge&logo=github&color=)
 
 </div>
 
