@@ -1,186 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Ragavan%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%26%20Agent%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4F46E5,100:14B8A6&height=200&section=header&text=Ragavan%20R&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20—%20RAG%20Systems%20%26%20Agentic%20AI&descAlignY=62&descSize=16&animation=fadeIn&fontFamily=JetBrains%20Mono"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+build+RAG+pipelines+that+actually+ground+truth;I+turn+unstructured+PDFs+into+structured+gold;I+design+AI+Agents+that+route+%26+act+on+their+own;I+ship+full-stack+%2B+AI+products+end-to-end" alt="Typing SVG"/>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragavan-r-aa8a032b3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ro7s.vercel.app/)
-[![Gmail](https://img.shields.io/badge/ragavannnn1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragavannnn1@gmail.com)
-[![Phone](https://img.shields.io/badge/%2B91%209080286148-0F766E?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919080286148)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ragavan30&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Ragavan30?style=for-the-badge&logo=github&color=06B6D4&labelColor=1a1a2e)
+<sub>Chennai, India · Available for full-time roles</sub>
 
 </div>
 
 <br/>
 
-## 🧠 Who I Am
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3200&pause=1400&color=4F46E5&center=true&vCenter=true&width=680&lines=I+ground+language+models+in+real+data.;I+turn+unstructured+documents+into+structured+truth.;I+build+agents+that+act%2C+not+just+answer." alt="headline"/>
+</div>
 
-I'm not chasing a stack — I'm chasing the problem underneath it. Most recently that meant building **retrieval-augmented systems for the insurance industry**: pipelines that ingest messy real-world policy PDFs, chunk and embed them, and hand back answers actually grounded in the source document, not a hallucination. I've also shipped an **autonomous AI Agent on the Microsoft Agentic Framework** that routes multi-step insurance queries and calls tools on its own — no hand-holding required.
+<br/>
 
-Before AI became the focus, I was already comfortable full-stack — HTML/CSS/JS on the front, Python/Flask underneath, Git keeping it all sane. That range is the point: I can take an idea from "what even is the data" to "here's the deployed pipeline."
+<p align="center">
+<a href="https://www.linkedin.com/in/ragavan-r-aa8a032b3/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+<a href="https://portfolio-ro7s.vercel.app/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+<a href="mailto:ragavannnn1@gmail.com"><strong>Email</strong></a> &nbsp;·&nbsp;
+<a href="https://github.com/Ragavan30"><strong>GitHub</strong></a>
+</p>
 
-```yaml
-current_role:     AI & Data Development Trainee @ Aieton Labs
-focus:            RAG Pipelines · Prompt Engineering · Agentic AI · Document Extraction
-degree:           B.E. Computer Science & Engineering (CGPA 8.1) — Anna University, 2025
-mindset:          "figure out what actually needs solving, then ship it"
-looking_for:      Full-time AI Engineer / Software Engineer roles
+<div align="center">
+
+—
+
+</div>
+
+<br/>
+
+## Who I am
+
+Most of what gets called "AI engineering" is really data engineering with a language model bolted on. That's the part I like — the unglamorous work of taking a pile of real, messy documents and turning them into something a model can reason over correctly. I'm currently building that at **Aieton Labs**, where insurance policy documents go in as scanned PDFs and come out as grounded, structured answers.
+
+I came into AI through full-stack development, not around it, which shapes how I build: I care as much about the pipeline shipping to production as I do about the model inside it. Four years of Computer Science at Anna University, a CGPA of 8.1, and a habit of finishing what I start.
+
+<br/>
+
+## What I solve
+
+Three problems keep showing up in my work, in different clothes each time:
+
+**Grounding.** Language models are fluent and frequently wrong. My job is closing that gap — retrieval pipelines that hand the model the right five paragraphs instead of hoping it remembers something similar from training.
+
+**Extraction.** Businesses run on documents that were never meant to be read by software — policy forms, claim reports, scanned contracts. I write the prompts and pipelines that pull structured fields out of that chaos reliably enough to trust in production.
+
+**Autonomy.** Some workflows shouldn't need a human in the loop for every step. I design agents that can decide which tool to call and when, so a multi-step query resolves on its own.
+
+<br/>
+
+<div align="center">
+
+—
+
+</div>
+
+<br/>
+
+## How I build
+
+A RAG system is only as good as its weakest stage. This is the shape I default to, and the one currently running in production at Aieton Labs:
+
+```
+01  INGEST     raw PDFs, forms, scanned policy documents
+02  CHUNK      context-aware splitting, not fixed-size guessing
+03  EMBED      vectorized representations for semantic search
+04  RETRIEVE   top-k relevant context, ranked and filtered
+05  GENERATE   LLM response grounded in retrieved source, not memory
 ```
 
-<br/>
+Every stage above has failed silently on me at least once — a bad chunking strategy or an ungrounded prompt will still produce a confident-sounding answer. I'd rather spend time on evaluation and validation at each step than trust the output at the end.
 
-## 💼 Experience Timeline
-
-<table>
-<tr>
-<td width="15%" align="center"><b>Mar – Jun<br/>2026</b></td>
-<td width="85%">
-
-**AI & Data Development Trainee** · Aieton Labs *(On-site)*
-- Built an end-to-end **RAG pipeline** for insurance documents — ingest → chunk → embed → retrieve → grounded answer
-- Engineered **LLM extraction prompts** pulling structured policy/claim data out of unstructured PDFs and forms with high precision
-- Ran iterative **prompt engineering** cycles (structure, context formatting, output validation) to make extraction production-ready
-- Designed & deployed an **AI Agent** on the **Microsoft Agentic Framework** for autonomous multi-step query handling and dynamic tool-calling
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>Oct – Nov<br/>2024</b></td>
-<td>
-
-**Full Stack Web Development Intern** · Knackforge Soft Solutions Pvt. Ltd., Chennai *(On-site)*
-- Shipped a portfolio site and a file-management app using HTML, CSS, JS + modern UI frameworks, fully responsive, Git-versioned
-- Applied systematic debugging and OOP fundamentals to lift performance and maintainability across the stack
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>Oct – Nov<br/>2024</b></td>
-<td>
-
-**Artificial Intelligence Intern** · CodSoft *(Remote)*
-- Built a recommendation system, a conversational chatbot, and an interactive game in Python using NumPy/Pandas + ML fundamentals
-
-</td>
-</tr>
-</table>
+The same discipline carries into the agent work: an agent that calls the wrong tool is worse than no agent at all, so tool-routing gets tested like code, not vibes.
 
 <br/>
 
-## 🚀 Things I've Built
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🩺 FixiFox — AI Code Debugger
-`Python` `Streamlit` `Groq API` `Monaco Editor`
+**FixiFox — a multi-model AI debugger**
 
-A multi-model debugging assistant wired to **7 LLMs** for bug detection, code generation, security scanning, and code conversion — hitting **80% bug-identification accuracy** and cutting debugging time by **60%**. Ships with contextual AI explanations, code-flow visualisation, SHA-256 auth, and SQLite-backed session history.
+*Problem.* Developers lose time bouncing between tools — a linter here, a security scanner there, a separate window for an explanation of *why* the bug happened.
 
-[`View on GitHub →`](https://github.com/Ragavan30)
+*Approach.* One interface, seven LLMs. FixiFox routes a given piece of code to the model best suited for the task — bug detection, generation, security analysis, or language conversion — inside a Monaco-powered editor with session history and authenticated user state.
 
-</td>
-<td width="50%" valign="top">
+*Outcome.* 80% bug-identification accuracy, and a 60% cut in debugging time in testing.
 
-### 👁️ Drowsiness Detection & Alerting
+`Python` `Streamlit` `Groq API` `Monaco Editor` `SQLite`
+&nbsp;·&nbsp; [Repository](https://github.com/Ragavan30)
+
+<br/>
+
+**Real-time drowsiness detection**
+
+*Problem.* Driver fatigue is hard to self-report and easy to miss until it's dangerous.
+
+*Approach.* Facial landmark tracking via OpenCV and Dlib, running continuously and unattended, triggering an audio alert and an emailed snapshot the moment drowsiness patterns appear — no dashboard required, no human watching a screen.
+
+*Outcome.* 90% detection accuracy in real-time testing conditions.
+
 `Python` `OpenCV` `Dlib` `SMTP`
+&nbsp;·&nbsp; [Repository](https://github.com/Ragavan30)
 
-Real-time computer-vision system tracking facial landmarks to catch driver drowsiness at **90% accuracy**, auto-triggering audio + email alerts with snapshot capture for fully unattended operation.
+<br/>
 
-[`View on GitHub →`](https://github.com/Ragavan30)
+**Earthquake prediction from seismic data**
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+*Problem.* Early warning systems are only useful if the pattern recognition behind them is trustworthy.
 
-### 🌍 Earthquake Prediction Model
+*Approach.* Applied classical ML — pandas-driven feature analysis and scikit-learn models — to seismic datasets, treating the data-analysis phase as its own deliverable rather than rushing to a model.
+
+*Status.* Phase one complete; model optimization ongoing.
+
 `Python` `Pandas` `Scikit-learn`
-
-Seismic-data pattern recognition aimed at early disaster warning — Phase 1 data analysis complete, ML optimisation ongoing.
-
-[`View on GitHub →`](https://github.com/Ragavan30/AI-BASED-EARTHQUAKE-PREDICTION-MODEL)
-
-</td>
-<td valign="top">
-
-### ❤️ Heart Disease Prediction
-`Python` `Jupyter` `ML Models`
-
-Multiple classification models trained to flag cardiac risk early, aimed at supporting faster clinical decisions.
-
-[`View on GitHub →`](https://github.com/Ragavan30/HEART-DISEASE-PREDICTION)
-
-</td>
-</tr>
-</table>
+&nbsp;·&nbsp; [Repository](https://github.com/Ragavan30/AI-BASED-EARTHQUAKE-PREDICTION-MODEL)
 
 <br/>
 
-## 🛠️ Toolkit
-
 <div align="center">
 
-**AI / LLM**
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6D28D9?style=flat-square) ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=flat-square) ![Agents](https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square) ![Vector DB](https://img.shields.io/badge/Vector_Databases-6D28D9?style=flat-square) ![Groq](https://img.shields.io/badge/Groq_API-6D28D9?style=flat-square)
-
-**Languages & Web**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Data & Infra**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+—
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ragavan30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragavan30&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Ragavan30&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragavan30&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=E6EDF3" width="97%"/>
-</div>
-
-<br/>
-
-## 🎓 Education & Certifications
+## Technical expertise
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td valign="top" width="50%">
 
-**B.E. Computer Science & Engineering** — CGPA 8.1
-GKM College of Engineering and Technology (Anna University), Chennai · 2021–2025
+**Artificial Intelligence**
+RAG pipeline design · LLM integration · Prompt engineering · Agentic AI (Microsoft Agentic Framework) · Semantic search · Vector databases
 
-**Higher Secondary Certificate** — 81%
-Ananthavalli Matriculation Higher Secondary School, Tamil Nadu · 2019–2021
-
-🥇 **1st Place** — IoT & Cybersecurity Workshop Competition
+**Backend & Data**
+Python · Flask · SQL · MongoDB · SQLite · NumPy · Pandas
 
 </td>
-<td width="40%" valign="top">
+<td valign="top" width="50%">
 
-- ✅ IBM SkillBuild AI Certification
-- ✅ Networking Essentials Certification
-- ✅ Cybersecurity Essentials Certification
-- ✅ Software Testing & Automation (Engage)
+**Frontend**
+JavaScript · HTML5 · CSS3 · Bootstrap · Material UI · Streamlit
+
+**Tooling & Delivery**
+Git · GitHub · Vercel · Render · n8n · Postman · Figma · Linux
 
 </td>
 </tr>
@@ -188,13 +153,58 @@ Ananthavalli Matriculation Higher Secondary School, Tamil Nadu · 2019–2021
 
 <br/>
 
+## Engineering philosophy
+
+I optimize for the version that ships, then improve it — a working pipeline with rough edges beats a perfect design still in a document. I default to the simplest architecture that satisfies the requirement, and add complexity only when the simple version demonstrably fails. And I treat evaluation as part of the build, not a step after it: an AI feature without a way to measure whether it's actually working isn't finished, it's a demo.
+
+<br/>
+
 <div align="center">
 
-### 📬 Open to full-time AI Engineer / Software Engineer roles — let's talk
+—
 
-[![LinkedIn](https://img.shields.io/badge/Message%20me%20on%20LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragavan-r-aa8a032b3/)
-[![Portfolio](https://img.shields.io/badge/See%20my%20full%20Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ro7s.vercel.app/)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer"/>
+<br/>
+
+## Currently
+
+<table>
+<tr>
+<td width="33%" valign="top"><strong>Building</strong><br/>Production RAG and document-extraction systems for insurance workflows at Aieton Labs</td>
+<td width="33%" valign="top"><strong>Learning</strong><br/>Deeper evaluation methodology for agentic systems — where autonomy tends to break</td>
+<td width="33%" valign="top"><strong>Open to</strong><br/>Full-time AI Engineer and Software Engineer roles</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragavan30&layout=compact&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=64748B&langs_count=6" height="150"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragavan30&hide_border=true&bg_color=00000000&color=4F46E5&line=14B8A6&point=64748B" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+—
+
+### Let's talk
+
+If you're solving a problem where the data is messy, the stakes are real, and "it works on the demo" isn't good enough — I'd like to hear about it.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragavan-r-aa8a032b3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ro7s.vercel.app/)
+[![Email](https://img.shields.io/badge/ragavannnn1%40gmail.com-64748B?style=flat-square&logo=gmail&logoColor=white)](mailto:ragavannnn1@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:1E1B4B&height=120&section=footer"/>
 
 </div>
